@@ -2,7 +2,7 @@
 
 Process chainer
 
-### Usage
+### Usage
 
 ```
 perform(instructions, input).then((output) => { ... });
